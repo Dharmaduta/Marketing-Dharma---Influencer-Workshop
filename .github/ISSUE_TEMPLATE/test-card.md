@@ -1,6 +1,7 @@
 ---
 name: Test Card
-about: Describe this issue template's purpose here.
+about: A Test Card is a structured way to design and run an experiment to validate
+  (or invalidate) a hypothesis.
 title: ''
 labels: Test Card
 assignees: ''

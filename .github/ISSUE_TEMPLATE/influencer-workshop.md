@@ -2,7 +2,7 @@
 name: Influencer Workshop
 about: Describe this issue template's purpose here.
 title: ''
-labels: ''
+labels: Test Card
 assignees: ''
 
 ---
