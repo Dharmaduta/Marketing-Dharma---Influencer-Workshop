@@ -4,7 +4,7 @@ about: A Learning Card is used after running the test. It captures the insights,
   and implications.
 title: ''
 labels: Learning Card
-assignees: ''
+assignees: Drongbu
 
 ---
 
