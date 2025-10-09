@@ -1,9 +1,9 @@
 ---
 name: Task
-about: Describe this issue template's purpose here.
+about: Task part of a Test Card Action Items
 title: ''
 labels: Task
-assignees: ''
+assignees: Senge
 ---
 ## Write the Task action item here
 
