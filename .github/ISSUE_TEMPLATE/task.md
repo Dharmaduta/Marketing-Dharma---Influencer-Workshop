@@ -2,7 +2,7 @@
 name: Task
 about: Task related to Test Card Action Item
 title: ''
-labels: ''
+labels: Task
 assignees: ''
 
 ---
